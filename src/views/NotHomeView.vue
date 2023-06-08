@@ -8,6 +8,6 @@ export default {
 
 <template>
   <div>
-    <span>Home</span>
+    <span>Not home</span>
   </div>
 </template>
